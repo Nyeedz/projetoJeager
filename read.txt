@@ -1,0 +1,644 @@
+Tensão: 4.43 V
+Corrente: 130 mA
+Rotações: 85 RPM
+Potência: 0.5759 W
+Torque = 1.2870041824176093 Kgf.m
+Horário: Thu Apr 26 2018 12:00:19 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.49 V
+Corrente: 130 mA
+Rotações: 139 RPM
+Potência: 0.5837 W
+Torque = 2.133135520617858 Kgf.m
+Horário: Thu Apr 26 2018 12:00:21 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.45 V
+Corrente: 130 mA
+Rotações: 89 RPM
+Potência: 0.5785 W
+Torque = 1.3536529184610127 Kgf.m
+Horário: Thu Apr 26 2018 12:00:24 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.47 V
+Corrente: 130 mA
+Rotações: 135 RPM
+Potência: 0.5811 W
+Torque = 2.062522039250847 Kgf.m
+Horário: Thu Apr 26 2018 12:00:25 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.5 V
+Corrente: 130 mA
+Rotações: 60 RPM
+Potência: 0.585 W
+Torque = 0.9228286529086563 Kgf.m
+Horário: Thu Apr 26 2018 12:00:30 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.52 V
+Corrente: 130 mA
+Rotações: 87 RPM
+Potência: 0.5876 W
+Torque = 1.3440486647029632 Kgf.m
+Horário: Thu Apr 26 2018 12:00:31 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.49 V
+Corrente: 130 mA
+Rotações: 104 RPM
+Potência: 0.5837 W
+Torque = 1.596015065786023 Kgf.m
+Horário: Thu Apr 26 2018 12:00:36 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.44 V
+Corrente: 130 mA
+Rotações: 146 RPM
+Potência: 0.5772 W
+Torque = 2.2156090591166944 Kgf.m
+Horário: Thu Apr 26 2018 12:00:37 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.33 V
+Corrente: 130 mA
+Rotações: 149 RPM
+Potência: 0.5629000000000001 W
+Torque = 2.205116155544733 Kgf.m
+Horário: Thu Apr 26 2018 12:00:41 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.3 V
+Corrente: 130 mA
+Rotações: 54 RPM
+Potência: 0.5589999999999999 W
+Torque = 0.7936326415014444 Kgf.m
+Horário: Thu Apr 26 2018 12:00:42 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 107 RPM
+Potência: 0.5694 W
+Torque = 1.6018254684154478 Kgf.m
+Horário: Thu Apr 26 2018 12:00:47 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 87 RPM
+Potência: 0.5694 W
+Torque = 1.3024188388050837 Kgf.m
+Horário: Thu Apr 26 2018 12:00:49 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 142 RPM
+Potência: 0.5720000000000001 W
+Torque = 2.135493860508624 Kgf.m
+Horário: Thu Apr 26 2018 12:00:54 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.43 V
+Corrente: 130 mA
+Rotações: 50 RPM
+Potência: 0.5759 W
+Torque = 0.7570612837750643 Kgf.m
+Horário: Thu Apr 26 2018 12:00:55 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 125 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.8798361448139298 Kgf.m
+Horário: Thu Apr 26 2018 12:00:59 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 58 RPM
+Potência: 0.5746 W
+Torque = 0.8762087165172708 Kgf.m
+Horário: Thu Apr 26 2018 12:01:00 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.35 V
+Corrente: 130 mA
+Rotações: 113 RPM
+Potência: 0.5655 W
+Torque = 1.680060830878704 Kgf.m
+Horário: Thu Apr 26 2018 12:01:05 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.33 V
+Corrente: 130 mA
+Rotações: 136 RPM
+Potência: 0.5629000000000001 W
+Torque = 2.0127234708327766 Kgf.m
+Horário: Thu Apr 26 2018 12:01:06 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 118 RPM
+Potência: 0.5694 W
+Torque = 1.766499114701148 Kgf.m
+Horário: Thu Apr 26 2018 12:01:11 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 53 RPM
+Potência: 0.5694 W
+Torque = 0.7934275684674648 Kgf.m
+Horário: Thu Apr 26 2018 12:01:12 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 138 RPM
+Potência: 0.5707 W
+Torque = 2.0706224240930453 Kgf.m
+Horário: Thu Apr 26 2018 12:01:16 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 63 RPM
+Potência: 0.5707 W
+Torque = 0.9452841501294337 Kgf.m
+Horário: Thu Apr 26 2018 12:01:17 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 83 RPM
+Potência: 0.5707 W
+Torque = 1.24537435651973 Kgf.m
+Horário: Thu Apr 26 2018 12:01:22 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 64 RPM
+Potência: 0.5707 W
+Torque = 0.9602886604489485 Kgf.m
+Horário: Thu Apr 26 2018 12:01:23 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 70 RPM
+Potência: 0.5746 W
+Torque = 1.0574932785553268 Kgf.m
+Horário: Thu Apr 26 2018 12:01:28 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 115 RPM
+Potência: 0.5746 W
+Torque = 1.737310386198037 Kgf.m
+Horário: Thu Apr 26 2018 12:01:29 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 123 RPM
+Potência: 0.5746 W
+Torque = 1.8581667608900745 Kgf.m
+Horário: Thu Apr 26 2018 12:01:33 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 53 RPM
+Potência: 0.5707 W
+Torque = 0.7952390469342855 Kgf.m
+Horário: Thu Apr 26 2018 12:01:34 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.41 V
+Corrente: 130 mA
+Rotações: 61 RPM
+Potência: 0.5733 W
+Torque = 0.9194449478479914 Kgf.m
+Horário: Thu Apr 26 2018 12:01:39 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 108 RPM
+Potência: 0.5746 W
+Torque = 1.6315610583425044 Kgf.m
+Horário: Thu Apr 26 2018 12:01:40 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.41 V
+Corrente: 130 mA
+Rotações: 144 RPM
+Potência: 0.5733 W
+Torque = 2.17049299164116 Kgf.m
+Horário: Thu Apr 26 2018 12:01:45 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 123 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.849758766496907 Kgf.m
+Horário: Thu Apr 26 2018 12:01:46 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 121 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.8196813881798841 Kgf.m
+Horário: Thu Apr 26 2018 12:01:50 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 61 RPM
+Potência: 0.5707 W
+Torque = 0.915275129490404 Kgf.m
+Horário: Thu Apr 26 2018 12:01:51 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 110 RPM
+Potência: 0.5694 W
+Torque = 1.6467364628570023 Kgf.m
+Horário: Thu Apr 26 2018 12:01:56 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 145 RPM
+Potência: 0.5707 W
+Torque = 2.1756539963296486 Kgf.m
+Horário: Thu Apr 26 2018 12:01:57 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 63 RPM
+Potência: 0.5707 W
+Torque = 0.9452841501294337 Kgf.m
+Horário: Thu Apr 26 2018 12:02:02 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 142 RPM
+Potência: 0.5707 W
+Torque = 2.1306404653711044 Kgf.m
+Horário: Thu Apr 26 2018 12:02:03 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 123 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.849758766496907 Kgf.m
+Horário: Thu Apr 26 2018 12:02:08 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 109 RPM
+Potência: 0.5707 W
+Torque = 1.6354916248271154 Kgf.m
+Horário: Thu Apr 26 2018 12:02:13 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 126 RPM
+Potência: 0.5707 W
+Torque = 1.8905683002588674 Kgf.m
+Horário: Thu Apr 26 2018 12:02:14 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 83 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.2482112001564494 Kgf.m
+Horário: Thu Apr 26 2018 12:02:19 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.41 V
+Corrente: 130 mA
+Rotações: 74 RPM
+Potência: 0.5733 W
+Torque = 1.1153922318155962 Kgf.m
+Horário: Thu Apr 26 2018 12:02:20 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 91 RPM
+Potência: 0.5707 W
+Torque = 1.3654104390758486 Kgf.m
+Horário: Thu Apr 26 2018 12:02:25 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 71 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.067746930254312 Kgf.m
+Horário: Thu Apr 26 2018 12:02:30 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 125 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.8798361448139298 Kgf.m
+Horário: Thu Apr 26 2018 12:02:31 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 139 RPM
+Potência: 0.5746 W
+Torque = 2.099879510274149 Kgf.m
+Horário: Thu Apr 26 2018 12:02:36 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 99 RPM
+Potência: 0.5707 W
+Torque = 1.4854465216319672 Kgf.m
+Horário: Thu Apr 26 2018 12:02:37 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.35 V
+Corrente: 130 mA
+Rotações: 119 RPM
+Potência: 0.5655 W
+Torque = 1.769267600659874 Kgf.m
+Horário: Thu Apr 26 2018 12:02:42 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 142 RPM
+Potência: 0.5720000000000001 W
+Torque = 2.135493860508624 Kgf.m
+Horário: Thu Apr 26 2018 12:02:47 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 96 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.4437141592170981 Kgf.m
+Horário: Thu Apr 26 2018 12:02:48 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 137 RPM
+Potência: 0.5707 W
+Torque = 2.0556179137735304 Kgf.m
+Horário: Thu Apr 26 2018 12:02:53 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 113 RPM
+Potência: 0.5694 W
+Torque = 1.691647457298557 Kgf.m
+Horário: Thu Apr 26 2018 12:02:54 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.35 V
+Corrente: 130 mA
+Rotações: 52 RPM
+Potência: 0.5655 W
+Torque = 0.7731253381034744 Kgf.m
+Horário: Thu Apr 26 2018 12:02:59 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 66 RPM
+Potência: 0.5707 W
+Torque = 0.9902976810879781 Kgf.m
+Horário: Thu Apr 26 2018 12:03:04 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 102 RPM
+Potência: 0.5707 W
+Torque = 1.5304600525905117 Kgf.m
+Horário: Thu Apr 26 2018 12:03:05 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 149 RPM
+Potência: 0.5707 W
+Torque = 2.235672037607708 Kgf.m
+Horário: Thu Apr 26 2018 12:03:10 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 112 RPM
+Potência: 0.5707 W
+Torque = 1.6805051557856598 Kgf.m
+Horário: Thu Apr 26 2018 12:03:11 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 100 RPM
+Potência: 0.5746 W
+Torque = 1.510704683650467 Kgf.m
+Horário: Thu Apr 26 2018 12:03:16 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 81 RPM
+Potência: 0.5746 W
+Torque = 1.2236707937568783 Kgf.m
+Horário: Thu Apr 26 2018 12:03:18 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 108 RPM
+Potência: 0.5694 W
+Torque = 1.616795799895966 Kgf.m
+Horário: Thu Apr 26 2018 12:03:21 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.37 V
+Corrente: 130 mA
+Rotações: 61 RPM
+Potência: 0.5681 W
+Torque = 0.9111053111328169 Kgf.m
+Horário: Thu Apr 26 2018 12:03:22 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 89 RPM
+Potência: 0.5694 W
+Torque = 1.33235950176612 Kgf.m
+Horário: Thu Apr 26 2018 12:03:27 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.37 V
+Corrente: 130 mA
+Rotações: 149 RPM
+Potência: 0.5681 W
+Torque = 2.2254867435867167 Kgf.m
+Horário: Thu Apr 26 2018 12:03:28 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.36 V
+Corrente: 130 mA
+Rotações: 80 RPM
+Potência: 0.5668000000000001 W
+Torque = 1.1921579042019976 Kgf.m
+Horário: Thu Apr 26 2018 12:03:33 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.37 V
+Corrente: 130 mA
+Rotações: 74 RPM
+Potência: 0.5681 W
+Torque = 1.1052752954725975 Kgf.m
+Horário: Thu Apr 26 2018 12:03:35 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 142 RPM
+Potência: 0.5720000000000001 W
+Torque = 2.135493860508624 Kgf.m
+Horário: Thu Apr 26 2018 12:03:38 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 121 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.8196813881798841 Kgf.m
+Horário: Thu Apr 26 2018 12:03:39 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 125 RPM
+Potência: 0.5694 W
+Torque = 1.8712914350647754 Kgf.m
+Horário: Thu Apr 26 2018 12:03:44 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.36 V
+Corrente: 130 mA
+Rotações: 131 RPM
+Potência: 0.5668000000000001 W
+Torque = 1.9521585681307712 Kgf.m
+Horário: Thu Apr 26 2018 12:03:45 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 74 RPM
+Potência: 0.5694 W
+Torque = 1.107804529558347 Kgf.m
+Horário: Thu Apr 26 2018 12:03:50 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 93 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.398598091741564 Kgf.m
+Horário: Thu Apr 26 2018 12:03:52 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.39 V
+Corrente: 130 mA
+Rotações: 62 RPM
+Potência: 0.5707 W
+Torque = 0.9302796398099188 Kgf.m
+Horário: Thu Apr 26 2018 12:03:55 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.41 V
+Corrente: 130 mA
+Rotações: 132 RPM
+Potência: 0.5733 W
+Torque = 1.9896185756710634 Kgf.m
+Horário: Thu Apr 26 2018 12:03:56 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 68 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.022630862778778 Kgf.m
+Horário: Thu Apr 26 2018 12:04:01 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 127 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.9099135231309528 Kgf.m
+Horário: Thu Apr 26 2018 12:04:02 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 110 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.6542558074362583 Kgf.m
+Horário: Thu Apr 26 2018 12:04:07 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 51 RPM
+Potência: 0.5746 W
+Torque = 0.7704593886617381 Kgf.m
+Horário: Thu Apr 26 2018 12:04:09 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.42 V
+Corrente: 130 mA
+Rotações: 62 RPM
+Potência: 0.5746 W
+Torque = 0.9366369038632896 Kgf.m
+Horário: Thu Apr 26 2018 12:04:12 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 123 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.849758766496907 Kgf.m
+Horário: Thu Apr 26 2018 12:04:13 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.37 V
+Corrente: 130 mA
+Rotações: 78 RPM
+Potência: 0.5681 W
+Torque = 1.1650199060386839 Kgf.m
+Horário: Thu Apr 26 2018 12:04:18 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.36 V
+Corrente: 130 mA
+Rotações: 141 RPM
+Potência: 0.5668000000000001 W
+Torque = 2.101178306156021 Kgf.m
+Horário: Thu Apr 26 2018 12:04:19 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 61 RPM
+Potência: 0.5720000000000001 W
+Torque = 0.9173600386691978 Kgf.m
+Horário: Thu Apr 26 2018 12:04:24 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 75 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.127901686888358 Kgf.m
+Horário: Thu Apr 26 2018 12:04:26 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 127 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.9099135231309528 Kgf.m
+Horário: Thu Apr 26 2018 12:04:29 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 114 RPM
+Potência: 0.5720000000000001 W
+Torque = 1.714410564070304 Kgf.m
+Horário: Thu Apr 26 2018 12:04:30 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 81 RPM
+Potência: 0.5694 W
+Torque = 1.2125968499219744 Kgf.m
+Horário: Thu Apr 26 2018 12:04:35 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.37 V
+Corrente: 130 mA
+Rotações: 92 RPM
+Potência: 0.5681 W
+Torque = 1.3741260430199862 Kgf.m
+Horário: Thu Apr 26 2018 12:04:36 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.38 V
+Corrente: 130 mA
+Rotações: 143 RPM
+Potência: 0.5694 W
+Torque = 2.140757401714103 Kgf.m
+Horário: Thu Apr 26 2018 12:04:41 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.4 V
+Corrente: 130 mA
+Rotações: 65 RPM
+Potência: 0.5720000000000001 W
+Torque = 0.9775147953032436 Kgf.m
+Horário: Thu Apr 26 2018 12:04:43 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.36 V
+Corrente: 130 mA
+Rotações: 87 RPM
+Potência: 0.5668000000000001 W
+Torque = 1.2964717208196725 Kgf.m
+Horário: Thu Apr 26 2018 12:04:46 GMT-0300 (E. South America Standard Time)
+-----------------------------------
+Tensão: 4.36 V
+Corrente: 130 mA
+Rotações: 58 RPM
+Potência: 0.5668000000000001 W
+Torque = 0.8643144805464483 Kgf.m
+Horário: Thu Apr 26 2018 12:04:47 GMT-0300 (E. South America Standard Time)
+-----------------------------------

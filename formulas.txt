@@ -1,0 +1,2 @@
+potencia = corrente * tensãp
+torque = (potencia * 60,75) / (pi * rpm)

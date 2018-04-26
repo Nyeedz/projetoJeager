@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Motor</title>
+
+
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script>
+		google.charts.load('current', { packages: ['corechart'] });
+		google.charts.setOnLoadCallback(gerarGraficos);
+
+		let dados = []
+		function buscarDados() {
+			fetch('http://localhost:3000/dados')
+				.then(response => response.json())
+				.then(response => {
+					dados = response
+					gerarGraficos()
+				}).catch(error => {
+					console.log(error)
+				})
+		}
+		setInterval(buscarDados, 1000)
+
+		function gerarGraficos() {
+
+			const arrayTensao = [['Horário', 'Tensão(V)']]
+			const arrayCorrente = [['Horário', 'Corrente(mA)']]
+			const arrayRotocao = [['Horário', 'Rotação(rpm)']]
+			const arrayTorquePot = [['Rotação (RPM)', 'Potência (W)', 'Torque (Kgf.m)']]
+
+			for (let i = 0; i < dados.length; i++) {
+				arrayTensao.push([
+					new Date(dados[i].horario),
+					dados[i].tensao
+				])
+				arrayCorrente.push([
+					new Date(dados[i].horario),
+					dados[i].corrente
+				])
+				arrayRotocao.push([
+					new Date(dados[i].horario),
+					dados[i].rpm
+				])
+				arrayTorquePot.push([
+					dados[i].rpm,
+					dados[i].potencia,
+					dados[i].torque
+				])
+			}
+
+			imprimirGraficos(arrayTensao, 'tensao')
+			imprimirGraficos(arrayCorrente, 'corrente')
+			imprimirGraficos(arrayRotocao, 'rpm')
+			imprimirGraficos(arrayTorquePot, 'torquePot')
+		}
+
+		function imprimirGraficos(dadosGrafico, type) {
+			if (dadosGrafico.length > 1) {
+				var title = '';
+				var idChart = '';
+
+
+				switch (type) {
+					case 'tensao':
+						title = 'Tensão x tempo'
+						idChart = 'grafico_tensao'
+						break
+					case 'corrente':
+						title = 'Corrente x tempo'
+						idChart = 'grafico_corrente'
+						break
+					case 'rpm':
+						title = 'Rotação x tempo'
+						idChart = 'grafico_rotacao'
+						break
+					case 'torquePot':
+						title = 'Potência x Torque'
+						idChart = 'grafico_potTorque'
+						break
+				}
+
+				var dataTensao = google.visualization.arrayToDataTable(dadosGrafico);
+
+
+				var options = {}
+				if (type === 'torquePot') {
+					options = {
+						title: title,
+						curveType: 'function',
+						legend: { position: 'bottom' },
+					};
+				} else {
+					options = {
+						title: title,
+						curveType: 'function',
+						legend: { position: 'bottom' },
+						hAxis: {
+							format: 'HH:mm:ss',
+						},
+					};
+				}
+
+
+
+				var chart = new google.visualization.LineChart(document.getElementById(idChart));
+
+				chart.draw(dataTensao, options);
+			}
+
+		}
+
+	</script>
+</head>
+
+<body>
+	<div id="grafico_tensao"></div>
+	<div id="grafico_corrente"></div>
+	<div id="grafico_rotacao"></div>
+	<div id="grafico_potTorque"></div>
+</body>
+
+</html>
